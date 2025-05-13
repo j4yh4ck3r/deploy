@@ -1,0 +1,16 @@
+{
+  "lista": [
+    {
+      "data": "2025-05-12",
+      "time": "12:53",
+      "nome": "JAY SOUZA DIAS",
+      "valorSelecionado": "SERROTE",
+      "Retirada": [
+        true,
+        "RETIRO"
+      ],
+      "Devovida": false,
+      "id": 1
+    }
+  ]
+}
